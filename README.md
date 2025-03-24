@@ -1,16 +1,37 @@
-# kalkulator_app
+# Kalkulator App
 
-A new Flutter project.
+## Deskripsi Aplikasi
+Kalkulator App adalah aplikasi sederhana yang memungkinkan pengguna untuk melakukan operasi matematika dasar, yaitu penjumlahan (+), pengurangan (-), perkalian (*), dan pembagian (/). Selain itu, aplikasi ini juga memiliki halaman profil pengguna.
 
-## Getting Started
+## Software yang Digunakan
+- Dart
+- Flutter
+- Visual Studio Code / Android Studio
+- GitHub
 
-This project is a starting point for a Flutter application.
+## Cara Instalasi
+1. Pastikan **Flutter SDK** sudah terinstal di komputer kamu. Jika belum, download di [Flutter.dev](https://flutter.dev/docs/get-started/install).
+2. Clone repository ini ke lokal:
+   ```sh
+   git clone https://github.com/m-rafiff-edna/Kalkuator.git
+   ```
+3. Masuk ke folder project:
+   ```sh
+   cd Kalkulator
+   ```
+4. Jalankan perintah berikut untuk menginstal dependencies:
+   ```sh
+   flutter pub get
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Menjalankan
+1. Pastikan emulator atau perangkat terhubung.
+2. Jalankan aplikasi dengan perintah:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Identitas Pembuat
+- **Nama**: [Muhammad Rafif Edna]
+- **GitHub**: [github.com/m-rafif-edna]
+- **Email**: [rafif.edna@gmail.com]
